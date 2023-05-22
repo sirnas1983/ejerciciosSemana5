@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T16:55:14.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="V3_L40nCd0iZWCnEGmcl" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T17:14:44.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3qITs5IJeJOtQStxfd0W" version="21.3.2" type="github">
   <diagram name="Página-1" id="kllAqAFV5FVC7QLykRas">
     <mxGraphModel dx="880" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,33 +64,31 @@
         <mxCell id="p_gB1W_YKTRuexhc4v0a-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-28" target="p_gB1W_YKTRuexhc4v0a-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_gB1W_YKTRuexhc4v0a-28" value="Codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+        <mxCell id="p_gB1W_YKTRuexhc4v0a-28" value="ID_Curso" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p_gB1W_YKTRuexhc4v0a-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-29" target="p_gB1W_YKTRuexhc4v0a-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_gB1W_YKTRuexhc4v0a-29" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" width="100" height="40" as="geometry" />
+        <mxCell id="p_gB1W_YKTRuexhc4v0a-29" value="Codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="15" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p_gB1W_YKTRuexhc4v0a-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="80" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="p_gB1W_YKTRuexhc4v0a-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-30" target="p_gB1W_YKTRuexhc4v0a-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_gB1W_YKTRuexhc4v0a-30" value="N_Creditos" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" y="60" width="100" height="40" as="geometry" />
+        <mxCell id="p_gB1W_YKTRuexhc4v0a-30" value="Nro_Creditos" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="105" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p_gB1W_YKTRuexhc4v0a-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.77;entryY=1.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-31" target="p_gB1W_YKTRuexhc4v0a-2">
+        <mxCell id="p_gB1W_YKTRuexhc4v0a-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-31" target="p_gB1W_YKTRuexhc4v0a-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p_gB1W_YKTRuexhc4v0a-31" value="ID_DEPTO" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" y="120" width="100" height="40" as="geometry" />
+          <mxGeometry x="580" y="145" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p_gB1W_YKTRuexhc4v0a-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-36" target="p_gB1W_YKTRuexhc4v0a-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p_gB1W_YKTRuexhc4v0a-36" value="Codigo" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="p_gB1W_YKTRuexhc4v0a-36" value="ID_Curso" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="303.5" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p_gB1W_YKTRuexhc4v0a-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-38" target="p_gB1W_YKTRuexhc4v0a-5">
@@ -122,6 +120,12 @@
         </mxCell>
         <mxCell id="p_gB1W_YKTRuexhc4v0a-43" value="DNI" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="610" y="350" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p_gB1W_YKTRuexhc4v0a-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="p_gB1W_YKTRuexhc4v0a-51" target="p_gB1W_YKTRuexhc4v0a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p_gB1W_YKTRuexhc4v0a-51" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="60" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
