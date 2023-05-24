@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T10:18:11.800Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="agcD4eT4M4-lFbguNCdc" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T10:23:07.610Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="O12COlt4c3IIhdw4NKH1" version="21.3.3" type="github">
   <diagram name="Página-1" id="ILEFJXkMRAuKWAC-PFVK">
-    <mxGraphModel dx="800" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="CQeSVp0xRqu90JHpQAoF-2" value="&lt;span&gt;&lt;span&gt;id_categoria&lt;/span&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;direction=west;fontStyle=4;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="650" y="15" width="74" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cWtKLrSumYc7GI5-woqa-2" value="Sub_categorías" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cWtKLrSumYc7GI5-woqa-2" value="Sub_categorias" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="90" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cWtKLrSumYc7GI5-woqa-3" value="descripcion" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;fontStyle=0;direction=west;" parent="1" vertex="1">
