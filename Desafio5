@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T01:37:46.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VbFV4LAPvTWeU1ZlrciT" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T01:38:18.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ncWxUK8RWJpkCbjNEVC9" version="21.3.3" type="github">
   <diagram name="Página-1" id="ILEFJXkMRAuKWAC-PFVK">
     <mxGraphModel dx="1434" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,6 +204,9 @@
         <mxCell id="CQeSVp0xRqu90JHpQAoF-2" value="&lt;span&gt;nombre&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;direction=west;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="366" y="40" width="74" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cWtKLrSumYc7GI5-woqa-1" value="&lt;span&gt;&lt;u&gt;id_categoria_hija&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;direction=west;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="800" y="88" width="74" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="cWtKLrSumYc7GI5-woqa-2" value="Sub_categorías" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="666.5" y="89.5" width="120" height="35" as="geometry" />
         </mxCell>
@@ -215,8 +218,8 @@
             <mxPoint x="51" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cWtKLrSumYc7GI5-woqa-8" value="&lt;span&gt;&lt;u&gt;nombre&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;direction=west;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="840" y="89.5" width="74" height="30" as="geometry" />
+        <mxCell id="cWtKLrSumYc7GI5-woqa-8" value="&lt;span&gt;nombre&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;direction=west;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="874" y="88" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cWtKLrSumYc7GI5-woqa-9" value="&lt;span&gt;imagen&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=8;fontStyle=0;direction=west;" parent="1" vertex="1">
           <mxGeometry x="874" y="120" width="74" height="30" as="geometry" />
