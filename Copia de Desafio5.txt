@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T10:21:34.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="hYIb23cE1r296UUvWy8X" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T10:31:09.012Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="78q-N_NDeokD0s8BGarP" version="21.3.3" type="github">
   <diagram name="Página-1" id="ILEFJXkMRAuKWAC-PFVK">
-    <mxGraphModel dx="607" dy="273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,7 +201,7 @@
           <mxGeometry x="430" y="280" as="geometry" />
         </mxCell>
         <mxCell id="hSrGFK5T4H4ej99ouNgG-104" value="1:N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="430" y="630" as="geometry" />
+          <mxGeometry x="430" y="640" as="geometry" />
         </mxCell>
         <mxCell id="hSrGFK5T4H4ej99ouNgG-105" value="1:N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="520" y="500" as="geometry" />
@@ -244,6 +244,12 @@
         </mxCell>
         <mxCell id="NPTIuiQQ-WQcCiyTaTMh-4" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="590" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NPTIuiQQ-WQcCiyTaTMh-5" value="AUTORES:" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="14" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NPTIuiQQ-WQcCiyTaTMh-6" value="ROLON, Dario&lt;br style=&quot;font-size: 14px;&quot;&gt;ZENIKEL, Camila&lt;br style=&quot;font-size: 14px;&quot;&gt;VILLORDO, Matias&lt;br style=&quot;font-size: 14px;&quot;&gt;RAMIREZ, Claudio&lt;br style=&quot;font-size: 14px;&quot;&gt;HIEBL, Darian" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="14" y="30" width="140" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
